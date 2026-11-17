@@ -1,8 +1,17 @@
 # About Me
 
-I am a final-year PhD student at the [Surrey Centre for Cyber Security](https://www.surrey.ac.uk/surrey-centre-cyber-security), University of Surrey focusing on formal methods and verification for cybersecurity.
-
+I am a final-year PhD student at the [Surrey Centre for Cyber Security](https://www.surrey.ac.uk/surrey-centre-cyber-security), focusing on formal methods and verification for cybersecurity. 
 I am interested in bridging the gap between theory and real-world impact and evaluating the security of computer systems within a broader context.
+
+I am very lucky to be supervised by [Prof. Saša Radomirović](https://www.macs.hw.ac.uk/~sr338/) and [Prof. Ioana Boureanu](https://people.itcarlson.com/ioana/).
+Currently, I split my time between Heriot-Watt University and the University of Surrey. 
+In 2026, I spent two months at the University of Luxembourg [SaToSS](https://satoss.uni.lu) group, funded by the Turing Scheme.
+
+## Publications
+**Verifying Account Ecosystems with Graph Transformations**. 
+Freya Murphy & Saša Radomirović.
+EuroS&P 2026. [Available online](https://doi.org/10.1109/EuroSP68448.2026.00038).
+
 
 ## Prior Education
 
